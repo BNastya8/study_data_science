@@ -25,6 +25,8 @@
 - Учимся писать хороший код на Python.
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
+
+:arrow_up:[к оглавлению](https://github.com/BNastya8/study_data_science/tree/BNastya8-patch-2/README.md#Оглавление)
 ### Краткая информация о данных
 int от 1 до 100
   
